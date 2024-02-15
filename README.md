@@ -1,0 +1,2 @@
+# typeScriptApp
+ practice typeScript
