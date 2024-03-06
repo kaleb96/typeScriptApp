@@ -8,9 +8,9 @@
 
 ### ✨Version...
 
-Node -v : 18.0.0
-npm -v : 8.15.0
-vue : 3.4.15
+Node -v : 18.0.0 <br>
+npm -v : 8.15.0 <br>
+vue : 3.4.15 <br>
 
 ---
 
